@@ -1,5 +1,5 @@
 # TFG-Diabetes-Detection
-My final degree project
+Public repository of my final degree project
 
 Natural order of the code:
 
